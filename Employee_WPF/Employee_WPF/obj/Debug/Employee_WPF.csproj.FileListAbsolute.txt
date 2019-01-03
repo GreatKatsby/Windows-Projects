@@ -1,0 +1,15 @@
+C:\Users\Jordan41\source\repos\Employee_WPF\Employee_WPF\bin\Debug\Employee_WPF.exe.config
+C:\Users\Jordan41\source\repos\Employee_WPF\Employee_WPF\bin\Debug\Employee_WPF.exe
+C:\Users\Jordan41\source\repos\Employee_WPF\Employee_WPF\bin\Debug\Employee_WPF.pdb
+C:\Users\Jordan41\source\repos\Employee_WPF\Employee_WPF\obj\Debug\Employee_WPF.csprojResolveAssemblyReference.cache
+C:\Users\Jordan41\source\repos\Employee_WPF\Employee_WPF\obj\Debug\MainWindow.g.cs
+C:\Users\Jordan41\source\repos\Employee_WPF\Employee_WPF\obj\Debug\App.g.cs
+C:\Users\Jordan41\source\repos\Employee_WPF\Employee_WPF\obj\Debug\Employee_WPF_MarkupCompile.cache
+C:\Users\Jordan41\source\repos\Employee_WPF\Employee_WPF\obj\Debug\Employee_WPF_MarkupCompile.lref
+C:\Users\Jordan41\source\repos\Employee_WPF\Employee_WPF\obj\Debug\MainWindow.baml
+C:\Users\Jordan41\source\repos\Employee_WPF\Employee_WPF\obj\Debug\Employee_WPF.g.resources
+C:\Users\Jordan41\source\repos\Employee_WPF\Employee_WPF\obj\Debug\Employee_WPF.Properties.Resources.resources
+C:\Users\Jordan41\source\repos\Employee_WPF\Employee_WPF\obj\Debug\Employee_WPF.csproj.GenerateResource.cache
+C:\Users\Jordan41\source\repos\Employee_WPF\Employee_WPF\obj\Debug\Employee_WPF.csproj.CoreCompileInputs.cache
+C:\Users\Jordan41\source\repos\Employee_WPF\Employee_WPF\obj\Debug\Employee_WPF.exe
+C:\Users\Jordan41\source\repos\Employee_WPF\Employee_WPF\obj\Debug\Employee_WPF.pdb

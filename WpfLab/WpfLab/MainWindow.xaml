@@ -1,0 +1,23 @@
+﻿<Window x:Class="WpfLab.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfLab"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800" Loaded="Window_Loaded">
+    <Grid>
+        <Label Content="From: $" HorizontalAlignment="Left" Margin="172,68,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="txtMin" HorizontalAlignment="Left" Height="23" Margin="227,71,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="58"/>
+        <Label Content="To: $" HorizontalAlignment="Left" Margin="409,68,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="txtMax" HorizontalAlignment="Left" Height="23" Margin="449,71,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="58"/>
+        <GroupBox Header="Display All Employees" HorizontalAlignment="Left" Height="238" Margin="128,143,0,0" VerticalAlignment="Top" Width="258">
+            <ListBox x:Name="lstAll" HorizontalAlignment="Left" Height="205" Margin="0,10,-2,0" VerticalAlignment="Top" Width="248" BorderThickness="0"/>
+        </GroupBox>
+        <GroupBox Header="Selected Employees" HorizontalAlignment="Left" Height="238" Margin="403,143,0,0" VerticalAlignment="Top" Width="258">
+            <ListBox x:Name="lstFilter" HorizontalAlignment="Left" Height="218" Margin="0,0,-2,-2" VerticalAlignment="Top" Width="248" BorderThickness="0"/>
+        </GroupBox>
+        <Button x:Name="btnDisplay" Content="Update" HorizontalAlignment="Left" Margin="558,71,0,0" VerticalAlignment="Top" Width="60" Height="23" Click="btnDisplay_Click"/>
+
+    </Grid>
+</Window>
